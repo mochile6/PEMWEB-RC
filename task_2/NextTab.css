@@ -1,5 +1,6 @@
 
 th {
+    background-color: cornflowerblue;
     border: solid 1pt black;
     padding-left: 5em;
     padding-right: 5em;
@@ -7,11 +8,15 @@ th {
     padding-bottom: 1em;
     font-size: 18px;
 }
+
+
 td{
     border: solid 1pt black;
     padding-top: 10px;
     padding-bottom: 10px;
-    text-align-last: center;
+    text-align: center;
+    font-size: 15px;
+    font-weight:200px;
 }
 
 body{
@@ -26,9 +31,8 @@ body{
 table{
     border-radius: 7px;
     border: solid 1pt black;
-    background-color: ;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
-    border-collapse:collapse;
+    border-collapse: collapse;
 }
