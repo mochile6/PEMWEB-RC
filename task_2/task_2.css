@@ -1,0 +1,38 @@
+*{
+    font-size: 30px;
+}
+
+h1{
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+
+form {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+textarea{
+    font: 1em sans-serif;
+}
+
+input::placeholder{
+    font-style: italic;
+}
+table {
+    border-radius: 7px;
+    border: solid 1pt black;
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+

@@ -1,0 +1,34 @@
+
+th {
+    border: solid 1pt black;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 18px;
+}
+td{
+    border: solid 1pt black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align-last: center;
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+table{
+    border-radius: 7px;
+    border: solid 1pt black;
+    background-color: ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-collapse:collapse;
+}
